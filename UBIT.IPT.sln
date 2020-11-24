@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UBIT.IPT.SERVER", "UBIT.IPT.SERVER\UBIT.IPT.SERVER.csproj", "{26D9AF3B-D1A9-4FC2-BE1F-D3C629422D72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26D9AF3B-D1A9-4FC2-BE1F-D3C629422D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D9AF3B-D1A9-4FC2-BE1F-D3C629422D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26D9AF3B-D1A9-4FC2-BE1F-D3C629422D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D9AF3B-D1A9-4FC2-BE1F-D3C629422D72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2AFB6CC-22A0-4B2F-8A9D-0CABEF4796EF}
+	EndGlobalSection
+EndGlobal
